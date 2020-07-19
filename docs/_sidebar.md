@@ -1,1 +1,2 @@
-* [设计模式](designPattern)
+* [设计模式](./designPattern)
+
